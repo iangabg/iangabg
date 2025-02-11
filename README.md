@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Ian Gabriel
 
-#### *Desenvolvedor Mobile*
+#### **Desenvolvedor Mobile**
 ---
 
 👋 *Olá! Seja bem-vindo ao meu GitHub!*
