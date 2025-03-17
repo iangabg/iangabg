@@ -40,6 +40,22 @@ Este espaço é onde compartilho meu aprendizado, experiências e projetos que v
 />
 <img 
     align="left" 
+    alt="Java" 
+    title="Java"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="http://www.w3.org/2000/svg"
+/>
+<img 
+    align="left" 
+    alt="Kotlin" 
+    title="Kotlin"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="http://www.w3.org/2000/svg"
+/>
+<img 
+    align="left" 
     alt="Linux" 
     title="Linux"
     width="40px" 
