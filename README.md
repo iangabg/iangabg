@@ -44,7 +44,7 @@ Este espaço é onde compartilho meu aprendizado, experiências e projetos que v
     title="Java"
     width="40px" 
     style="padding-right: 10px;" 
-    src="http://www.w3.org/2000/svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 <img 
     align="left" 
@@ -52,7 +52,7 @@ Este espaço é onde compartilho meu aprendizado, experiências e projetos que v
     title="Kotlin"
     width="40px" 
     style="padding-right: 10px;" 
-    src="http://www.w3.org/2000/svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
 />
 <img 
     align="left" 
