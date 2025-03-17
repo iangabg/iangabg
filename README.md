@@ -1,12 +1,13 @@
 # 👨🏻‍💻 Ian Gabriel
 
-#### **Desenvolvedor Mobile**
+#### **Desenvolvedor Back-end**
 ---
 
 👋 *Olá! Seja bem-vindo ao meu GitHub!*
 
-**Meu nome é Ian Gabriel sou desenvolvedor mobile, sou um entusiasta do ecossistema Android, sempre em busca de aprender mais e criar aplicativos que fazem a diferença. Atualmente, estou aprimorando minhas habilidades com Kotlin, Firebase e boas práticas de desenvolvimento mobile.
-Este espaço é onde compartilho meu aprendizado, experiências e projetos que venho desenvolvendo ao longo da minha jornada na programação.**
+**Olá! Meu nome é Ian Gabriel, sou desenvolvedor Back-end com foco em Java e Kotlin. Sou um entusiasta de tecnologia e estou sempre buscando aprimorar minhas habilidades para construir soluções eficientes e escaláveis. Atualmente, estou aprofundando meus conhecimentos em boas práticas de desenvolvimento, banco de dados e integração de sistemas.
+
+Aqui, compartilho meu aprendizado, experiências e projetos que venho desenvolvendo ao longo da minha jornada como programador.**
 
 *Sinta-se à vontade para explorar, contribuir ou apenas trocar ideias. Vamos evoluir juntos!* 🚀
 
